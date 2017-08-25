@@ -12,3 +12,5 @@ Useful Links
 
 * [Concept2 Rowing](http://www.concept2.com/)
 * [RunKeeper](http://runkeeper.com/)
+
+This is Sateesh Peddini's first attempt to add some Concept2 daily workout suggestions
